@@ -1,16 +1,19 @@
-# Durga Saptashloki
+# Durga Saptashati
 
-Seven complete Sanskrit verses with simple English and Telugu translations. All audio is pregenerated with Sarvam Bulbul v3, speaker tarun. Playback needs no API key or backend.
+All 700 traditionally numbered units across 13 chapters, in 656 complete passages. Includes Sanskrit, simple English and Telugu translations, and saved Tarun recordings.
 
-Each slide plays one continuous Sanskrit recording followed by one full Telugu translation. Clicking a phrase plays a saved continuous reading from that position. Natural sentence and verse punctuation may produce pauses. Sanskrit uses experimental Hindi-mode TTS and should be checked against a teacher's recitation.
+[Open the learning deck](https://rahulbalakavi.github.io/durga-saptashloki/)
 
-The audio manifest records the voice, model, exact text and checksums for every file. No credentials or local server files are published.
+## Text and translations
 
-## Sources
+Sanskrit source: https://sanskritdocuments.org/doc_devii/durga700.html
 
-- https://sanskritdocuments.org/doc_devii/durga7.html
-- https://sanskritdocuments.org/doc_devii/durga700.html
-- https://www.learnsanskrit.org/guide/sounds/vowels/
-- https://www.learnsanskrit.org/guide/core/sandhi/
+22 repeated refrains are printed as three-unit ranges. Speaker announcements are part of the traditional numbering. Preliminary prayers are outside the 700-unit text.
 
-English and Telugu translations are learning paraphrases prepared for this deck.
+English and Telugu are AI-assisted learning translations, prepared and checked against the Sanskrit, with F. E. Pargiter’s public-domain 1904 translation consulted as a historical reference. They are not a critical scholarly edition. Audio uses Sarvam bulbul:v3, Tarun, and is saved once. The Sanskrit reading uses experimental Hindi-mode pronunciation. Consult a teacher for recitation accuracy.
+
+## Hosting
+
+This is a static website. Serve the directory over HTTP or deploy it to GitHub Pages. No API key or server-side TTS is needed for playback. Keep the data and audio directories beside index.html.
+
+Open saptashloki.html for the original seven-verse selection.
