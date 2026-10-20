@@ -3,10 +3,10 @@
   "model": "bulbul:v3",
   "entries": [
     {
-      "hash": "c36465fdad08cf53243124f572dd3a3a1c6d1992d51ca97e1850e02ef934af21",
-      "path": "audio/full/tarun-c36465fdad08cf53243124f572dd3a3a1c6d1992d51ca97e1850e02ef934af21.mp3",
+      "hash": "5c51495b09e14c3931d86793d96bd6a96801652f898d04f58caab8b9f8ee3c4a",
+      "path": "audio/full/tarun-5c51495b09e14c3931d86793d96bd6a96801652f898d04f58caab8b9f8ee3c4a.mp3",
       "request": {
-        "text": "ॐ ऐं मार्कण्डेय उवाच ॥",
+        "text": "ॐ ऐं मार्कण्डेय उवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -16,9 +16,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "1.1",
-      "bytes": 28268,
-      "audioSha256": "da097609b97e634964f3796f85b891d6b18ff3c13a7039482d9d63080f84467c",
-      "generatedAt": "2026-10-19T05:08:07.009Z"
+      "bytes": 32588,
+      "audioSha256": "cabe332fc94127b33703d9e082c7e2cc46a57ce0ec8be2d33fafbe005a0e3981",
+      "generatedAt": "2026-10-20T03:03:48.977Z"
     },
     {
       "hash": "676a2efe911191f6b425b78c0ca1cec6425b0db9b925ae128e50cb81addf47f2",
@@ -957,10 +957,10 @@
       "generatedAt": "2026-10-19T05:50:13.909Z"
     },
     {
-      "hash": "5597b095bde3c35836745a4c499edfdfd27f36031e095df1cd0a6c457b4df035",
-      "path": "audio/full/tarun-5597b095bde3c35836745a4c499edfdfd27f36031e095df1cd0a6c457b4df035.mp3",
+      "hash": "3a4640150b88659d869496ba93459dfc6f15a563ae843c9748487a706588a93c",
+      "path": "audio/full/tarun-3a4640150b88659d869496ba93459dfc6f15a563ae843c9748487a706588a93c.mp3",
       "request": {
-        "text": "प्रत्युवाच स तं वैश्यः प्रश्रयावनतो नृपम् ॥",
+        "text": "प्रत्युवाचा स तं वैश्यः प्रश्रयावनतो नृपम् ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -970,9 +970,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "1.19",
-      "bytes": 61100,
-      "audioSha256": "32be1d05894755fffdddd819014c2e8266b72405a2aecfd3f36930d379e15874",
-      "generatedAt": "2026-10-19T05:08:25.067Z"
+      "bytes": 55916,
+      "audioSha256": "4d902d6e01603af768432be64a12926ca7f25eaf0eccfbe44b37fd83c009e36e",
+      "generatedAt": "2026-10-20T03:03:50.966Z"
     },
     {
       "hash": "ff9e454a9f187461af4292dcd79b0cd2f21c9a0488ecebe0f04977a96f45bf80",
@@ -993,10 +993,10 @@
       "generatedAt": "2026-10-19T05:50:12.923Z"
     },
     {
-      "hash": "88e5d2c061de7dab516b0d6efdbc1d57bbbe4b53444e8191a3e6c2e3fce01d96",
-      "path": "audio/full/tarun-88e5d2c061de7dab516b0d6efdbc1d57bbbe4b53444e8191a3e6c2e3fce01d96.mp3",
+      "hash": "951375cf4640e4c2e77a8a9d206b87dbfbae18eb8dcb5073a39ca433eee9e515",
+      "path": "audio/full/tarun-951375cf4640e4c2e77a8a9d206b87dbfbae18eb8dcb5073a39ca433eee9e515.mp3",
       "request": {
-        "text": "वैश्य उवाच ॥",
+        "text": "वैश्य उवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -1006,9 +1006,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "1.20",
-      "bytes": 16172,
-      "audioSha256": "45619c51fe22ea807608bb77b695ac77e80a0d3861c4e04f6d0ca19e13e0a44f",
-      "generatedAt": "2026-10-19T05:08:24.693Z"
+      "bytes": 18188,
+      "audioSha256": "f47012a564d4a381921e570048245f8bd90fe025c0366854c13d261b907f933c",
+      "generatedAt": "2026-10-20T03:03:50.702Z"
     },
     {
       "hash": "4fa12ae80245c5a63c5e52b8746a1308eb6d256a6c3c3248b2a07aa8c52c5499",
@@ -1263,10 +1263,10 @@
       "generatedAt": "2026-10-19T05:50:24.988Z"
     },
     {
-      "hash": "1d9289ccb925ecad66a5cf4681ae1abed6df04bd00526af58ddf245475779464",
-      "path": "audio/full/tarun-1d9289ccb925ecad66a5cf4681ae1abed6df04bd00526af58ddf245475779464.mp3",
+      "hash": "84648a3bd0ac533dcabe7e93c16e5ceea40080a3a284e28f74a76f5e1739d26b",
+      "path": "audio/full/tarun-84648a3bd0ac533dcabe7e93c16e5ceea40080a3a284e28f74a76f5e1739d26b.mp3",
       "request": {
-        "text": "राजोवाच ॥",
+        "text": "राजोवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -1277,8 +1277,8 @@
       },
       "firstPassage": "1.26",
       "bytes": 14156,
-      "audioSha256": "b8de6491e87ca8e705e4a60913257065709767061d7d512e9fb8b57ea3798b69",
-      "generatedAt": "2026-10-19T05:08:29.558Z"
+      "audioSha256": "507550d925d9c434711487b2965189194d538e2b9e975a2cff167974511ae318",
+      "generatedAt": "2026-10-20T03:03:52.838Z"
     },
     {
       "hash": "bbc3a7dc17a0007a0be19fd4bec950a6d024e73d971fc355088ffc55eb2b7648",
@@ -1605,10 +1605,10 @@
       "generatedAt": "2026-10-19T05:50:44.282Z"
     },
     {
-      "hash": "180862ff1c7e348e1a8e1c3d80c9345296c3b3dfe9ba239ee85d61bef7fe3fc2",
-      "path": "audio/full/tarun-180862ff1c7e348e1a8e1c3d80c9345296c3b3dfe9ba239ee85d61bef7fe3fc2.mp3",
+      "hash": "813768f62fbb2e69fae52e2653031fcc28abaf67220af7a0edf46ed7151fcef1",
+      "path": "audio/full/tarun-813768f62fbb2e69fae52e2653031fcc28abaf67220af7a0edf46ed7151fcef1.mp3",
       "request": {
-        "text": "मार्कण्डेय उवाच ॥",
+        "text": "मार्कण्डेय उवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -1618,9 +1618,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "1.35",
-      "bytes": 18188,
-      "audioSha256": "a5babd32cc841fa226801ed7269d5fd0a5bc187293fbd97921f3422a7790ef86",
-      "generatedAt": "2026-10-19T05:09:05.905Z"
+      "bytes": 19052,
+      "audioSha256": "f30bcbc76ce8d5715e1be1a1dd7943dc20cba574f12f856bcc1e466a9e452832",
+      "generatedAt": "2026-10-20T03:03:55.408Z"
     },
     {
       "hash": "caba42955c15da421c7e2d52105bf47874a22bd25157ae806b0a399c6ed2d989",
@@ -2055,10 +2055,10 @@
       "generatedAt": "2026-10-19T05:51:04.002Z"
     },
     {
-      "hash": "370371dc36930f55dca85f9a763970552bb331e0464f031267692156c2be6aa0",
-      "path": "audio/full/tarun-370371dc36930f55dca85f9a763970552bb331e0464f031267692156c2be6aa0.mp3",
+      "hash": "6a92b770d7d9c2885d7ec742fcc5ab9dae7fadf17865058772d7272d31be6cb2",
+      "path": "audio/full/tarun-6a92b770d7d9c2885d7ec742fcc5ab9dae7fadf17865058772d7272d31be6cb2.mp3",
       "request": {
-        "text": "ऋषिरुवाच ॥",
+        "text": "ऋषिरुवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -2069,8 +2069,8 @@
       },
       "firstPassage": "1.46",
       "bytes": 15020,
-      "audioSha256": "6f639f538de5adcb282768238a4812732a115f688cd0c19e3141f251f770c40c",
-      "generatedAt": "2026-10-19T05:09:29.905Z"
+      "audioSha256": "4bdaab5f3aa87327a35c373db332c18c7698299ac88d5422860d12c8aa875593",
+      "generatedAt": "2026-10-20T03:03:57.231Z"
     },
     {
       "hash": "6beb0ae34754d735adcfbabde1536d126703b04678941746146c82cca85a6078",
@@ -3225,10 +3225,10 @@
       "generatedAt": "2026-10-19T05:51:58.979Z"
     },
     {
-      "hash": "4a8a01aec17c18b3f06cb6dfdfd44f3e31d8c84fc7b8bb38a73435b5c8031b83",
-      "path": "audio/full/tarun-4a8a01aec17c18b3f06cb6dfdfd44f3e31d8c84fc7b8bb38a73435b5c8031b83.mp3",
+      "hash": "49a6757fb751f74f79ab06f8a2f3b5b10d1cc76900d684f8810966910dca5ca7",
+      "path": "audio/full/tarun-49a6757fb751f74f79ab06f8a2f3b5b10d1cc76900d684f8810966910dca5ca7.mp3",
       "request": {
-        "text": "ब्रह्मोवाच ॥",
+        "text": "ब्रह्मोवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -3238,9 +3238,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "1.72",
-      "bytes": 10988,
-      "audioSha256": "8a0f34ddb1a9c7a4aecf571ad2ff64b664538a8c7a19dd17d5fe3d240880227a",
-      "generatedAt": "2026-10-19T05:10:16.717Z"
+      "bytes": 15020,
+      "audioSha256": "62ac773eeeac9b95aafe906857c44621901353410342a9ab21d59563cdc7b94b",
+      "generatedAt": "2026-10-20T03:03:59.430Z"
     },
     {
       "hash": "427f37eacfcb1279d4b81b388ef49f24f734460292053456bfa6ff61b322a60f",
@@ -4377,10 +4377,10 @@
       "generatedAt": "2026-10-19T05:52:47.116Z"
     },
     {
-      "hash": "26816a3dd2c24da7f91f415c25b7ba6eea024cd6ee4d9632990426893c7e54e9",
-      "path": "audio/full/tarun-26816a3dd2c24da7f91f415c25b7ba6eea024cd6ee4d9632990426893c7e54e9.mp3",
+      "hash": "60643ac55551e4b66fc8912fc2b9a5a64b72b96a639a530aa57840759f2c5cd9",
+      "path": "audio/full/tarun-60643ac55551e4b66fc8912fc2b9a5a64b72b96a639a530aa57840759f2c5cd9.mp3",
       "request": {
-        "text": "श्रीभगवानुवाच ॥",
+        "text": "श्रीभगवानुवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -4390,9 +4390,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "1.96",
-      "bytes": 24236,
-      "audioSha256": "0615e0529406af38656fec0b8ba61d8c316aaca8230c278a7323f7f7322d2674",
-      "generatedAt": "2026-10-19T05:11:04.676Z"
+      "bytes": 21356,
+      "audioSha256": "55b7bc05ccbf631efb7b9b5e013dbc1d3a770253d9fbb2dd2c1a2593c46ebb6f",
+      "generatedAt": "2026-10-20T03:04:01.719Z"
     },
     {
       "hash": "01066412881d34aa12694f7151dd4c159ab42829e939be733dff02b093747913",
@@ -4683,10 +4683,10 @@
       "generatedAt": "2026-10-19T05:53:03.704Z"
     },
     {
-      "hash": "c65a3d3da00d61546ba9786525efc6e1a3d2937b99545d3a5a71c5c0b2debf31",
-      "path": "audio/full/tarun-c65a3d3da00d61546ba9786525efc6e1a3d2937b99545d3a5a71c5c0b2debf31.mp3",
+      "hash": "20fa2cbb44064fae9ec40c356b7e50fd3ac9d0c6bdb6950b097c9760497360a6",
+      "path": "audio/full/tarun-20fa2cbb44064fae9ec40c356b7e50fd3ac9d0c6bdb6950b097c9760497360a6.mp3",
       "request": {
-        "text": "ॐ ह्रीं ऋषिरुवाच ॥",
+        "text": "ॐ ह्रीं ऋषिरुवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -4696,9 +4696,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "2.1",
-      "bytes": 30572,
-      "audioSha256": "9458f08c4507d1584dd414cd3359be05fcf2ffcfc2892a7467a0bee3cd649e74",
-      "generatedAt": "2026-10-19T05:11:16.734Z"
+      "bytes": 28268,
+      "audioSha256": "29fd09194c24c5be8c76f48e663443575fbd6b89bab7f5d7461e6c6213126a7c",
+      "generatedAt": "2026-10-20T03:04:04.375Z"
     },
     {
       "hash": "cc82d711b5eeded97ddb351e1ff2d61b8699f7654bed90237c3795b8b9d1fd6e",
@@ -8409,10 +8409,10 @@
       "generatedAt": "2026-10-19T05:55:35.406Z"
     },
     {
-      "hash": "8b1f0f2b2596f9fc4db2278434101bb548ecb94b61ae668eba497a5ea494f55f",
-      "path": "audio/full/tarun-8b1f0f2b2596f9fc4db2278434101bb548ecb94b61ae668eba497a5ea494f55f.mp3",
+      "hash": "44bc7a9ef34799ac520d8950f76ceb5ddddf4f8ee3de12809f10a08c1a8485fa",
+      "path": "audio/full/tarun-44bc7a9ef34799ac520d8950f76ceb5ddddf4f8ee3de12809f10a08c1a8485fa.mp3",
       "request": {
-        "text": "ॐ ऋषिरुवाच ॥",
+        "text": "ॐ ऋषिरुवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -8422,9 +8422,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "3.1",
-      "bytes": 27404,
-      "audioSha256": "35c9565cee90553f9dc622bd43d4d127abaebc3a7a8183f2725c4919aade897c",
-      "generatedAt": "2026-10-19T05:15:56.701Z"
+      "bytes": 24236,
+      "audioSha256": "4a3dadacdfe526054e55ab9c53282e0f0b1e44801085bc14ff04f381c7441db3",
+      "generatedAt": "2026-10-20T03:04:06.788Z"
     },
     {
       "hash": "0d46fddfb29fca0c7a7dbccfb932afb3df6e2d8617758836f3f01a2f42f49fe8",
@@ -10281,10 +10281,10 @@
       "generatedAt": "2026-10-19T05:56:52.265Z"
     },
     {
-      "hash": "fe1e9c27970dcf2df78dd52d5bd7828d16f7c7b085a09b6ee08e825757c48f45",
-      "path": "audio/full/tarun-fe1e9c27970dcf2df78dd52d5bd7828d16f7c7b085a09b6ee08e825757c48f45.mp3",
+      "hash": "280eaaf3bacb61bbe3bd98fb9c835f7f12c8dfd6db2a1b29f00800cdf443d7e9",
+      "path": "audio/full/tarun-280eaaf3bacb61bbe3bd98fb9c835f7f12c8dfd6db2a1b29f00800cdf443d7e9.mp3",
       "request": {
-        "text": "सा च तान्प्रहितांस्तेन चूर्णयन्ती शरोत्करैः । उवाच तं मदोद्धूतमुखरागाकुलाक्षरम् ॥",
+        "text": "सा च तान्प्रहितांस्तेन चूर्णयन्ती शरोत्करैः । उवाचा तं मदोद्धूतमुखरागाकुलाक्षरम् ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -10294,15 +10294,15 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "3.36",
-      "bytes": 88748,
-      "audioSha256": "cfc84c6a27760aa22016822c1b6239bcfc5e107b1be29efcd8a743ccae4cccb2",
-      "generatedAt": "2026-10-19T05:18:29.473Z"
+      "bytes": 90764,
+      "audioSha256": "9535e5c2fb467ad7369e00567d8bc39722f6594e0f402fe115a301155471a44b",
+      "generatedAt": "2026-10-20T03:04:10.740Z"
     },
     {
-      "hash": "d310131ae6b4731d357b480934a82b4345cbedaa126b39a33a08ef7acdacd777",
-      "path": "audio/full/tarun-d310131ae6b4731d357b480934a82b4345cbedaa126b39a33a08ef7acdacd777.mp3",
+      "hash": "edb8667300514b228b850a42c0e8a2b21203c89aa44b10428b3530046ba37d95",
+      "path": "audio/full/tarun-edb8667300514b228b850a42c0e8a2b21203c89aa44b10428b3530046ba37d95.mp3",
       "request": {
-        "text": "उवाच तं मदोद्धूतमुखरागाकुलाक्षरम् ॥",
+        "text": "उवाचा तं मदोद्धूतमुखरागाकुलाक्षरम् ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -10312,9 +10312,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "3.36",
-      "bytes": 44684,
-      "audioSha256": "2956c1309771c60a256f197da412e76babc0ab0b673f7bd2814f2c894c606cec",
-      "generatedAt": "2026-10-19T05:18:30.955Z"
+      "bytes": 43820,
+      "audioSha256": "e16741dbec1630e00a4480914102498f4b465b808b251f482ed24464895fc425",
+      "generatedAt": "2026-10-20T03:04:12.667Z"
     },
     {
       "hash": "0872a597d673514ba430d91f36aaab1cfa981c16a65bbe1451251250f3fbb20b",
@@ -10335,10 +10335,10 @@
       "generatedAt": "2026-10-19T05:56:54.892Z"
     },
     {
-      "hash": "998804668d38f93b2ab23dad501a9d908f63fb9afac341dbd81dba356719f47f",
-      "path": "audio/full/tarun-998804668d38f93b2ab23dad501a9d908f63fb9afac341dbd81dba356719f47f.mp3",
+      "hash": "3d60ebeae2af04b9c2f7d8bad0b33b77b8696d4ec2a9e0c57aba69fe9705b710",
+      "path": "audio/full/tarun-3d60ebeae2af04b9c2f7d8bad0b33b77b8696d4ec2a9e0c57aba69fe9705b710.mp3",
       "request": {
-        "text": "देव्युवाच ॥",
+        "text": "देव्युवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -10348,9 +10348,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "3.37",
-      "bytes": 15020,
-      "audioSha256": "1ac660e6d3f7a3db08805af191f0c6bf29eb50697db06dec5561dd25bfef1146",
-      "generatedAt": "2026-10-19T05:18:32.692Z"
+      "bytes": 13004,
+      "audioSha256": "4ae6c1fe59cdcce6ab8b479190de1ee1feb5b4eb2f60ff24d0fcc3342b3e3334",
+      "generatedAt": "2026-10-20T03:04:12.565Z"
     },
     {
       "hash": "3254cd5ad1f6185897e99aac33af3326e49f664e6a8ff0cf28aaac3d11b1ca4c",
@@ -13287,10 +13287,10 @@
       "generatedAt": "2026-10-19T05:59:15.325Z"
     },
     {
-      "hash": "6bce4d75683053b8efe07a5d5a9583ff7a5f4b49c50b25447786baffb3a2a9ec",
-      "path": "audio/full/tarun-6bce4d75683053b8efe07a5d5a9583ff7a5f4b49c50b25447786baffb3a2a9ec.mp3",
+      "hash": "d78ddf08258fd8edf8f92919605244b0523f7fbd872de17e57da8b2019a39dcb",
+      "path": "audio/full/tarun-d78ddf08258fd8edf8f92919605244b0523f7fbd872de17e57da8b2019a39dcb.mp3",
       "request": {
-        "text": "ॐ क्लीं ऋषिरुवाच ॥",
+        "text": "ॐ क्लीं ऋषिरुवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -13300,9 +13300,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "5.1",
-      "bytes": 27404,
-      "audioSha256": "e22eda9fcf391d511e5ec5cd0a4fae6340f00f5959034d19ae62a13f1837e77c",
-      "generatedAt": "2026-10-19T05:23:10.066Z"
+      "bytes": 23372,
+      "audioSha256": "a8cdbcb335d51121b35530a4e1f4bde6af0c78c4cb0282e0d650c40cb5f18b7d",
+      "generatedAt": "2026-10-20T03:04:15.240Z"
     },
     {
       "hash": "35c2c4d0a7dfb51271b80e17aefc25e4a79d90965dfa9a2ec6a43c913c5caf12",
@@ -16005,10 +16005,10 @@
       "generatedAt": "2026-10-19T06:01:24.830Z"
     },
     {
-      "hash": "a20e6127173460857dada3abe303dceb9b2563e9c5053b9a967e88a0a78c5f80",
-      "path": "audio/full/tarun-a20e6127173460857dada3abe303dceb9b2563e9c5053b9a967e88a0a78c5f80.mp3",
+      "hash": "45e5faa3971050769df4af8f721ceafd21fdb70b8c3667afb90717f5789d7266",
+      "path": "audio/full/tarun-45e5faa3971050769df4af8f721ceafd21fdb70b8c3667afb90717f5789d7266.mp3",
       "request": {
-        "text": "दूत उवाच ॥",
+        "text": "दूत उवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -16019,8 +16019,8 @@
       },
       "firstPassage": "5.105",
       "bytes": 19052,
-      "audioSha256": "9a852da251bb4737bc6ad0d51a03a8a7950e0f7c8d81038ea918ec3d314f012b",
-      "generatedAt": "2026-10-19T05:26:41.140Z"
+      "audioSha256": "d5062eb61fd6ae736c1ca2ab8a22360a0e61c704ef7b9455118a5a9684d59a1e",
+      "generatedAt": "2026-10-20T03:04:17.058Z"
     },
     {
       "hash": "8863170c39a70ea9a1e496e1824e3ca3dd2007fbadbe876bfd2efd38f961ed7a",
@@ -19461,10 +19461,10 @@
       "generatedAt": "2026-10-19T06:03:48.330Z"
     },
     {
-      "hash": "67de764c8439f5d0b8b5df22e127978a6a41f10cada34f1818e01a224f16c21d",
-      "path": "audio/full/tarun-67de764c8439f5d0b8b5df22e127978a6a41f10cada34f1818e01a224f16c21d.mp3",
+      "hash": "1dd475f448395f633295a660f580a6a9bb6b84298c60fc70540a54e3cf214374",
+      "path": "audio/full/tarun-1dd475f448395f633295a660f580a6a9bb6b84298c60fc70540a54e3cf214374.mp3",
       "request": {
-        "text": "तावानीतौ ततो दृष्ट्वा चण्डमुण्डौ महासुरौ । उवाच कालीं कल्याणी ललितं चण्डिका वचः ॥",
+        "text": "तावानीतौ ततो दृष्ट्वा चण्डमुण्डौ महासुरौ । उवाचा कालीं कल्याणी ललितं चण्डिका वचः ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -19474,15 +19474,15 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "7.26",
-      "bytes": 88748,
-      "audioSha256": "3ef1fac4d3501ad7e6678ba49afa97ea073855c9a3c2be73216a905f9885c992",
-      "generatedAt": "2026-10-19T05:31:21.702Z"
+      "bytes": 83564,
+      "audioSha256": "bd5914e3c0f05dfd3ec23cbf3aa8703d614e2022736aebe0d5898395544d70d1",
+      "generatedAt": "2026-10-20T03:04:21.117Z"
     },
     {
-      "hash": "44d9c52a9c828806decebf83a62e6fc9725f259d6138228dc1e8374a1e9bdd3c",
-      "path": "audio/full/tarun-44d9c52a9c828806decebf83a62e6fc9725f259d6138228dc1e8374a1e9bdd3c.mp3",
+      "hash": "2ba41096c419b4eec399632da9e33482a6a58f49d27ac6091191110beb8510a6",
+      "path": "audio/full/tarun-2ba41096c419b4eec399632da9e33482a6a58f49d27ac6091191110beb8510a6.mp3",
       "request": {
-        "text": "उवाच कालीं कल्याणी ललितं चण्डिका वचः ॥",
+        "text": "उवाचा कालीं कल्याणी ललितं चण्डिका वचः ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -19492,9 +19492,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "7.26",
-      "bytes": 51020,
-      "audioSha256": "285d4c19db4d21dc2fe367b8a6ffe0b6373ecfbbcfd2da819ce3d13c01555ffa",
-      "generatedAt": "2026-10-19T05:31:23.274Z"
+      "bytes": 44684,
+      "audioSha256": "191a9aa5d3fd870205ba02963d26d3231e11419c770d1bb85b7d87e17c2959f8",
+      "generatedAt": "2026-10-20T03:04:23.679Z"
     },
     {
       "hash": "1256e168495478d287e294c9240600c39db5f908ec9b7d404af562284056b462",
@@ -22323,10 +22323,10 @@
       "generatedAt": "2026-10-19T06:05:44.479Z"
     },
     {
-      "hash": "c79d81e179c161a3076ec83cf228d8a466b01188ed19af3a2d17e142a337aeb3",
-      "path": "audio/full/tarun-c79d81e179c161a3076ec83cf228d8a466b01188ed19af3a2d17e142a337aeb3.mp3",
+      "hash": "081bccb735ae27024863a2d48ee6439d911face5a29a6d082f6119964100e336",
+      "path": "audio/full/tarun-081bccb735ae27024863a2d48ee6439d911face5a29a6d082f6119964100e336.mp3",
       "request": {
-        "text": "तान् विषण्णान् सुरान् दृष्ट्वा चण्डिका प्राहसत्वरम् । उवाच कालीं चामुण्डे विस्तीर्णं वदनं कुरु ॥",
+        "text": "तान् विषण्णान् सुरान् दृष्ट्वा चण्डिका प्राहसत्वरम् । उवाचा कालीं चामुण्डे विस्तीर्णं वदनं कुरु ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -22336,15 +22336,15 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "8.53",
-      "bytes": 97964,
-      "audioSha256": "1deb80f62b410872b7b5d5cd1f097abb57f00f9059249f670e7f4473fd6bdb92",
-      "generatedAt": "2026-10-19T05:35:15.086Z"
+      "bytes": 95084,
+      "audioSha256": "7a627234aafcb6ed4a7518eccef8c54c6d20caf14b3ef87a5a0fedd103b69126",
+      "generatedAt": "2026-10-20T03:04:25.687Z"
     },
     {
-      "hash": "11fa2c7549384ca58c54dfa53e017ea1004407d4328a649961c17d45995ee9d9",
-      "path": "audio/full/tarun-11fa2c7549384ca58c54dfa53e017ea1004407d4328a649961c17d45995ee9d9.mp3",
+      "hash": "335f7faae951b9816448dd74c3bf84abcbf74be1023880f7d9936abfe0804007",
+      "path": "audio/full/tarun-335f7faae951b9816448dd74c3bf84abcbf74be1023880f7d9936abfe0804007.mp3",
       "request": {
-        "text": "उवाच कालीं चामुण्डे विस्तीर्णं वदनं कुरु ॥",
+        "text": "उवाचा कालीं चामुण्डे विस्तीर्णं वदनं कुरु ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -22354,9 +22354,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "8.53",
-      "bytes": 43820,
-      "audioSha256": "24d3ab637651fa6530a2521c31c0289d7ec166f0cac6f1bd0f48f0dda16ce948",
-      "generatedAt": "2026-10-19T05:35:16.405Z"
+      "bytes": 42668,
+      "audioSha256": "79611c92fb24ba2ce0389c7fc7aa0f56c7301d76b4b10d9d315108c469315ee8",
+      "generatedAt": "2026-10-20T03:04:26.240Z"
     },
     {
       "hash": "65fdb330b730a7053509e5a9e8ad07e0eca419a8a1f8bca6af7a78b64bbd23f8",
@@ -22899,10 +22899,10 @@
       "generatedAt": "2026-10-19T06:06:08.670Z"
     },
     {
-      "hash": "544f0ac1b6b4aae07d82b751726e5a1ff6abe46773691d70840bc7bac4b6a050",
-      "path": "audio/full/tarun-544f0ac1b6b4aae07d82b751726e5a1ff6abe46773691d70840bc7bac4b6a050.mp3",
+      "hash": "c53342a15239b06fc122bb8fcc8a8cb97661371b8a3734c3d4955f9cf082bc8d",
+      "path": "audio/full/tarun-c53342a15239b06fc122bb8fcc8a8cb97661371b8a3734c3d4955f9cf082bc8d.mp3",
       "request": {
-        "text": "ॐ राजोवाच ॥",
+        "text": "ॐ राजोवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -22912,9 +22912,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "9.1",
-      "bytes": 18188,
-      "audioSha256": "972a8ffab3b0ec3d11e05b3f7f044591040c7d19d581d0bffccef406e1bf2010",
-      "generatedAt": "2026-10-19T05:35:59.977Z"
+      "bytes": 21356,
+      "audioSha256": "f25d7f163bee083372afe20cded5fbbf65e43b0577cecf70c837ec57d16db387",
+      "generatedAt": "2026-10-20T03:04:28.117Z"
     },
     {
       "hash": "83fc53d0a519fd6a7ef3f400157ff554e99053190c6816b178f97facb22f441d",
@@ -29631,10 +29631,10 @@
       "generatedAt": "2026-10-19T06:10:44.021Z"
     },
     {
-      "hash": "bd389c37a37436e553253f181bd213b7ecb38f4f205b8a979ceaa9dbfae7cd59",
-      "path": "audio/full/tarun-bd389c37a37436e553253f181bd213b7ecb38f4f205b8a979ceaa9dbfae7cd59.mp3",
+      "hash": "d82e1c2154ac068640643abbd3b9c563f28030942e68acc086faeb33c1b77d78",
+      "path": "audio/full/tarun-d82e1c2154ac068640643abbd3b9c563f28030942e68acc086faeb33c1b77d78.mp3",
       "request": {
-        "text": "ॐ देव्युवाच ॥",
+        "text": "ॐ देव्युवाचा ॥",
         "language_code": "hi-IN",
         "speaker": "tarun",
         "model": "bulbul:v3",
@@ -29644,9 +29644,9 @@
         "output_audio_codec": "wav"
       },
       "firstPassage": "12.1",
-      "bytes": 16172,
-      "audioSha256": "07dd5f0db37fc02a44043b73d9413640c2935bc598bd26872dfda3055b68f50c",
-      "generatedAt": "2026-10-19T05:45:18.676Z"
+      "bytes": 14156,
+      "audioSha256": "cb37a6edc9e4e763692db5d1cbdfd58a3b2b28e3d96c683fdf8d2bd9e3644950",
+      "generatedAt": "2026-10-20T03:04:30.196Z"
     },
     {
       "hash": "10ac47e13f2366fc83c79fbbee0955e98cc457a7a07936e791cbe808a44b99f9",

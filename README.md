@@ -1,6 +1,6 @@
 # Durga Saptashati
 
-All 700 traditionally numbered units across 13 chapters, in 656 complete passages. Includes Sanskrit, simple English and Telugu translations, and saved Tarun recordings.
+All 700 traditionally numbered units across 13 chapters, in 599 reading slides. Speaker introductions stay with the verse that follows them; all 656 source passages are preserved. Includes Sanskrit, simple English and Telugu translations, and saved Tarun recordings.
 
 [Open the learning deck](https://rahulbalakavi.github.io/durga-saptashloki/)
 
